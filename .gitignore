@@ -1,0 +1,10 @@
+# List of untracked files to ignore
+data/
+calibration/
+resources/
+.ipynb_checkpoints/
+*.mat
+*.asv
+*.MATLABDriveTag
+*.prj
+.DS_Store
